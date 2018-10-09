@@ -6,4 +6,4 @@
 
 <h3>python3 client.py</h3>
 
-<img a="./1.png" />
+![alt text](./1.png)
